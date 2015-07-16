@@ -16,7 +16,8 @@ Rough Schedule for 2015 Esri UC Week
 ###tuesday  
 * **0830** - `31B` - 3D Cartography     
 * **1015** - `9` - Smart Mapping    
-* **1030** - `Demo 8` - ArcGIS Open Data  
+* **1030** - `Demo 8` - ArcGIS Open Data 
+* **1130** - `Demo 11` - Open Data Site Design  
 * **1130** - `UX` - lightning talks     
 * **0130** - `UX` - Personas: I <3 Users   
 * **0130** - `6D` - arcgis pro     
