@@ -1,6 +1,8 @@
 # esri-uc-schedule
 Rough Schedule for 2015 Esri UC Week
 
+Come find me for a #geohipster sticker!
+
 ###sunday  
 * **0945** - Arrival  
 * **0530** - YPN Social  
