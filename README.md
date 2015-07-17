@@ -7,6 +7,8 @@ Come find me for a #geohipster sticker!
 * **0945** - Arrival  
 * **0530** - YPN Social  
   * San Diego Convention Center, Room 2  
+* **0800** - CartoDB Happy Hour  
+ * Half Door Brewing Company - 	903 Island Ave  
 
 ###monday  
 * **0830** - Plenary  
