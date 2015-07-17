@@ -45,7 +45,9 @@ Come find me for a #geohipster sticker!
 * **0530** - GeoDev Meetup        
   * San Diego Marriott Marquis & Marina - Coronado Room      
 * **0600** - YPN Networking Social        
-  * Hilton Bayfront Pool     
+  * Hilton Bayfront Pool  
+* **0600** - UX Exchange  
+  * Marriott Marquis San Diego - South Tower, Level 3, Salon E, F, G    
 
 ###thursday  
 * **0830** - `28B` - Navy - `Company Event` 
